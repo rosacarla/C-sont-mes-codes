@@ -1,7 +1,7 @@
 ## C-sont-mes-Codes
 
 O nome deste repositório está escrito em francês e quer dizer "Estes-são-meus-Códigos".
-Os arquivos contém códigos em linguagem C: exemplos, exercícios e muito a melhorar.
+Os arquivos contém códigos em linguagem C: exemplos, exercícios e outros.
 Fiz questão de passar pelo aprendizado da linguagem C em etapa preliminar aos estudos de Programação Orientada a Objetos com Java.  
 
 
